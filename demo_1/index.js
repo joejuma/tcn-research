@@ -1,7 +1,7 @@
 // Human
-const RESTServer = require("./REST_Server_CHUNK"); // Generated
-const HealthCheckEndpoint = require("./Health_Check_Endpoint_CHUNK"); // Generated
-const TimeEndpoint = require("./Time_Endpoint_CHUNK"); // Generated
+const RESTServer = require("./REST_Server_CHUNK"); // Generated file
+const HealthCheckEndpoint = require("./Health_Check_Endpoint_CHUNK"); // Generated file
+const TimeEndpoint = require("./Time_Endpoint_CHUNK"); // Generated file
 
 // Generated
 const server = new RESTServer();
